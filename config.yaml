@@ -1,0 +1,10 @@
+openai_api_key: ""
+data_directory: ""
+data_files_glob: "*.txt"
+webpages:
+  - "https://picpay.com/"
+  - "https://blog.picpay.com/"
+  - "https://blog.picpay.com/meu-negocio/formas-de-pagamento-no-ecommerce/"
+tone: "formal"
+persona: "virtual assistant"
+
